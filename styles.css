@@ -1,6 +1,18 @@
 body{ 
     background-color: rgb(132 156 166);
-    }
+    font-family:"Inconsolata, monospace";
+    font-weight: 400;
+    width: 90%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 63px;
+}
+
+hr {
+   border: 10px solid rgb(128, 79, 0);
+   border-radius: 5px;
+ }
+
 
 
 p {
@@ -16,3 +28,23 @@ p {
     font-family: "Rubik Dirt', cursive"
     font-weight150
  } 
+
+ .italic-text {
+    font-style: italic;
+    font-family:"Lucida Sans, Lucida Sans Regular"
+ }
+
+ #single-p {
+    color: blueviolet;
+    
+ }
+
+img{
+
+   width: 200px;
+   height: 200px;
+
+
+ }
+
+ 
