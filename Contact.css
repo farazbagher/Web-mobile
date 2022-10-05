@@ -1,11 +1,12 @@
 body{ 
-    background-color: rgb(132 156 166);
+    background-color: rgb(132, 133, 166);
     font-family:"Inconsolata, monospace";
     font-weight: 400;
-    width: 90%;
+    width:220%;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 50px;
+    height: 220px;
 }
 input[type=text], select {
     width: 100%;
@@ -42,3 +43,4 @@ input[type=text], select {
     border: 10px solid rgb(128, 79, 0);
     border-radius: 5px;
   }
+

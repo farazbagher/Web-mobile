@@ -1,32 +1,43 @@
 body{ 
-    background-color: rgb(132 156 166);
+    background-color: rgba(55, 57, 110, 0.552);
+    color: aqua;
     font-family:"Inconsolata, monospace";
     font-weight: 400;
-    width: 90%;
+    width: 220%;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 63px;
+    height: 220px;
 }
 
 hr {
-   border: 10px solid rgb(128, 79, 0);
+   border: 10px solid rgb(80, 151, 144);
    border-radius: 5px;
  }
+
+ 
 
 
 
 p {
 
-    color: rgb(0, 255, 123);
+    color: aqua;;
     text-align: center;
+    font-size: medium;
+    font-weight: 100px;
     font-style: Arial;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight:250
+    font-weight:250px;
   }
 
  h1{
-    font-family: "Rubik Dirt', cursive"
-    font-weight150
+
+   margin-bottom: auto;
+   margin-right:20px;
+   
+   
+
+
  } 
 
  .italic-text {
@@ -39,12 +50,25 @@ p {
     
  }
 
+
 img{
 
    width: 200px;
    height: 200px;
+}
 
-
+.nav {
+   background-color: rgba(55, 57, 110, 0.552);
+   list-style-type: none;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+ }
+ 
+ .nav li {
+   display: inline-block;
+   font-size: 20px;
+   padding: 20px;
+   
  }
 
- 
