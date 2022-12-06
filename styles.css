@@ -72,3 +72,10 @@ img{
    
  }
 
+ 
+hr {
+   border: 10px solid rgb(128, 79, 0);
+   border-radius: 5px;
+ }
+
+ 
