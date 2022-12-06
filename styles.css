@@ -1,13 +1,14 @@
 body{ 
     background-color: rgba(55, 57, 110, 0.552);
-    color: aqua;
+    color: rgb(166, 0, 255);
     font-family:"Inconsolata, monospace";
     font-weight: 400;
-    width: 220%;
+    width: 100%;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 63px;
     height: 220px;
+    background-color: black;
 }
 
 hr {
@@ -21,8 +22,7 @@ hr {
 
 p {
 
-    color: aqua;;
-    text-align: center;
+    color: rgb(166, 0, 255);
     font-size: medium;
     font-weight: 100px;
     font-style: Arial;
@@ -58,7 +58,7 @@ img{
 }
 
 .nav {
-   background-color: rgba(55, 57, 110, 0.552);
+   background-color: rgba(0, 128, 100);
    list-style-type: none;
    text-align: center;
    margin: 0;
@@ -74,7 +74,7 @@ img{
 
  
 hr {
-   border: 10px solid rgb(128, 79, 0);
+   border: 10px solid rgb(0, 128, 100);
    border-radius: 5px;
  }
 
